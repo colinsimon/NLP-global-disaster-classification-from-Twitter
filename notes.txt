@@ -1,0 +1,3 @@
+- Location data is bad, many are not real places.  Geotagged tweets would be more useful for helping find disasters.
+
+- Media that may have been attached to the tweet could be used as well.
